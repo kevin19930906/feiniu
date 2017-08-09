@@ -1,0 +1,326 @@
+@charset "UTF-8";
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img, input, section, header, nav, main, footer {
+  margin: 0;
+  padding: 0; }
+
+img {
+  border: 0;
+  display: block; }
+
+a, u {
+  text-decoration: none; }
+
+ul, ol, li {
+  list-style: none; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 16px;
+  font-weight: 100; }
+
+em, #middle #middle_con .middle_con_form .switch span, i {
+  font-style: normal; }
+
+b, strong {
+  font-weight: 100; }
+
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+#middle #middle_con .middle_con_form .code .qrcode, #middle #middle_con .middle_con_form .code .pc {
+  display: inline-block;
+  width: 61px;
+  height: 61px; }
+
+#top2 {
+  height: 80px; }
+  #top2 #top2_con {
+    width: 1060px;
+    margin: 0 auto; }
+    #top2 #top2_con a {
+      display: block;
+      width: 300px;
+      height: 60px;
+      margin: 10px 0;
+      background: url("../img/loginRegister/201606061936141465212974_kk-0.png") no-repeat; }
+
+#middle {
+  height: 455px;
+  background-color: #e9e9e9;
+  padding-top: 40px; }
+  #middle #middle_con {
+    width: 1190px;
+    margin: 0 auto; }
+    #middle #middle_con .middle_con_banner {
+      float: left;
+      width: 660px;
+      height: 359px; }
+    #middle #middle_con .middle_con_form {
+      width: 305px;
+      height: 365px;
+      background: white;
+      padding: 20px;
+      padding-bottom: 0;
+      float: right;
+      margin-right: 135px;
+      position: relative; }
+      #middle #middle_con .middle_con_form .switch {
+        position: absolute;
+        width: 84px;
+        height: 18px;
+        left: 178px;
+        top: 5px;
+        padding: 1px 10px;
+        color: #666666;
+        border: 1px solid #ffd8a4;
+        background-color: #fffdee; }
+        #middle #middle_con .middle_con_form .switch em, #middle #middle_con .middle_con_form .switch span {
+          border-color: transparent transparent transparent #ffd8a4;
+          border-width: 5px;
+          border-style: solid;
+          height: 0;
+          left: 105px;
+          top: 5px;
+          overflow: hidden;
+          position: absolute;
+          width: 0;
+          z-index: 1; }
+        #middle #middle_con .middle_con_form .switch span {
+          border-color: transparent transparent transparent #fff;
+          left: 104px; }
+        #middle #middle_con .middle_con_form .switch p {
+          font-size: 12px; }
+      #middle #middle_con .middle_con_form .code {
+        width: 61px;
+        height: 61px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        /*此处要写js*/ }
+        #middle #middle_con .middle_con_form .code em, #middle #middle_con .middle_con_form .code .switch span, #middle #middle_con .middle_con_form .switch .code span {
+          display: inline-block;
+          position: absolute;
+          right: 17px;
+          bottom: -45px;
+          width: 0;
+          height: 0;
+          overflow: hidden;
+          border: 44px solid transparent;
+          border-right-color: #fff;
+          transform: rotate(315deg); }
+        #middle #middle_con .middle_con_form .code .qrcode {
+          background: url(../img/loginRegister/login-qr.png) no-repeat; }
+        #middle #middle_con .middle_con_form .code .pc {
+          background: url(../img/loginRegister/login-pc.png) no-repeat; }
+      #middle #middle_con .middle_con_form .login_pc {
+        width: 305px;
+        height: 366px; }
+        #middle #middle_con .middle_con_form .login_pc h2 {
+          height: 21px;
+          font-size: 16px;
+          line-height: 21px;
+          color: #666;
+          margin-bottom: 16px; }
+        #middle #middle_con .middle_con_form .login_pc .table {
+          width: 307px; }
+          #middle #middle_con .middle_con_form .login_pc .table .meg_wrap {
+            height: 24px;
+            line-height: 24px;
+            padding: 16px 0 7px; }
+            #middle #middle_con .middle_con_form .login_pc .table .meg_wrap .meg_error {
+              border: 1px solid #ffbdbe;
+              background: #ffebeb;
+              font-size: 12px;
+              height: 24px;
+              line-height: 24px;
+              margin-bottom: 7px;
+              padding: 0 10px 0 30px;
+              color: #d7063b;
+              font-size: 12px;
+              position: relative; }
+              #middle #middle_con .middle_con_form .login_pc .table .meg_wrap .meg_error span {
+                display: inline-block;
+                width: 15px;
+                height: 15px;
+                position: absolute;
+                left: 10px;
+                top: 50%;
+                margin-top: -7px;
+                background: url(../img/loginRegister/dialog-login.png) no-repeat 0 -40px; }
+            #middle #middle_con .middle_con_form .login_pc .table .meg_wrap .meg_tip {
+              border: 1px solid #ffe9b1;
+              background: #fff4d8;
+              font-size: 12px;
+              height: 24px;
+              line-height: 24px;
+              margin-bottom: 7px;
+              padding: 0 10px 0 30px;
+              color: #d7063b;
+              font-size: 12px;
+              position: relative; }
+              #middle #middle_con .middle_con_form .login_pc .table .meg_wrap .meg_tip span {
+                display: inline-block;
+                width: 15px;
+                height: 15px;
+                position: absolute;
+                left: 10px;
+                top: 50%;
+                margin-top: -7px;
+                background: url(../img/loginRegister/fn-icon.png) no-repeat 0 0; }
+          #middle #middle_con .middle_con_form .login_pc .table p {
+            height: 40px;
+            margin-bottom: 20px;
+            position: relative; }
+            #middle #middle_con .middle_con_form .login_pc .table p label {
+              display: inline-block;
+              width: 41px;
+              height: 38px;
+              border-right: 1px solid #eee;
+              position: absolute;
+              left: 1px;
+              top: 1px; }
+            #middle #middle_con .middle_con_form .login_pc .table p input {
+              width: 246px;
+              height: 18px;
+              border: 1px solid #ccc;
+              padding: 10px 10px 10px 47px;
+              font-size: 14px;
+              outline: none;
+              color: #3c3c3c; }
+          #middle #middle_con .middle_con_form .login_pc .table p:nth-of-type(1) label {
+            background: url(../img/loginRegister/dialog-login.png) no-repeat; }
+          #middle #middle_con .middle_con_form .login_pc .table p:nth-of-type(2) label {
+            background: url(../img/loginRegister/dialog-login.png) no-repeat -39px 0; }
+          #middle #middle_con .middle_con_form .login_pc .table .auto_login {
+            height: 14px;
+            margin-bottom: 10px; }
+            #middle #middle_con .middle_con_form .login_pc .table .auto_login label {
+              color: #666;
+              cursor: pointer;
+              font-size: 12px;
+              display: block;
+              float: left; }
+              #middle #middle_con .middle_con_form .login_pc .table .auto_login label input {
+                margin-right: 10px;
+                vertical-align: middle;
+                width: 13px;
+                height: 13px; }
+            #middle #middle_con .middle_con_form .login_pc .table .auto_login span {
+              display: block;
+              float: right;
+              line-height: 14px; }
+              #middle #middle_con .middle_con_form .login_pc .table .auto_login span a {
+                font-size: 12px;
+                color: #666;
+                cursor: pointer;
+                text-decoration: underline; }
+          #middle #middle_con .middle_con_form .login_pc .table #btn {
+            display: block;
+            width: 305px;
+            margin-left: -20px;
+            height: 40px;
+            line-height: 40px;
+            font-size: 18px;
+            color: #fff;
+            text-align: center;
+            font-family: "Microsoft YaHei";
+            background-color: #c20053;
+            cursor: pointer;
+            margin: 20px 0; }
+        #middle #middle_con .middle_con_form .login_pc .way {
+          position: absolute;
+          width: 345px;
+          margin-left: -20px;
+          height: 84px; }
+          #middle #middle_con .middle_con_form .login_pc .way p {
+            width: 305px;
+            height: 16px;
+            line-height: 16px;
+            padding: 12px 20px;
+            background: #f5f5f5;
+            margin-bottom: 0; }
+            #middle #middle_con .middle_con_form .login_pc .way p a {
+              display: block;
+              float: left;
+              width: 152px;
+              height: 18px;
+              font-size: 14px;
+              line-height: 14px;
+              color: #666;
+              border-right: 1px solid #ddd; }
+              #middle #middle_con .middle_con_form .login_pc .way p a span {
+                display: inline-block;
+                width: 12px;
+                height: 18px;
+                margin-right: 8px; }
+              #middle #middle_con .middle_con_form .login_pc .way p a em, #middle #middle_con .middle_con_form .login_pc .way p a .switch span, #middle #middle_con .middle_con_form .switch .login_pc .way p a span {
+                vertical-align: top;
+                height: 18px;
+                line-height: 18px; }
+            #middle #middle_con .middle_con_form .login_pc .way p a:last-child {
+              border: 0;
+              text-align: right;
+              color: #c20053; }
+            #middle #middle_con .middle_con_form .login_pc .way p a:first-child span {
+              background: url(../img/loginRegister/dialog-login.png) no-repeat -44px -40px; }
+            #middle #middle_con .middle_con_form .login_pc .way p a:last-child span {
+              width: 16px;
+              background: url(../img/loginRegister/dialog-login.png) no-repeat -58px -38px; }
+          #middle #middle_con .middle_con_form .login_pc .way dl {
+            width: 305px;
+            height: 20px;
+            line-height: 20px;
+            padding: 12px 20px;
+            color: #999;
+            background: #eee;
+            word-spacing: -3px; }
+            #middle #middle_con .middle_con_form .login_pc .way dl dt {
+              font-size: 12px;
+              float: left; }
+            #middle #middle_con .middle_con_form .login_pc .way dl dd {
+              float: left; }
+              #middle #middle_con .middle_con_form .login_pc .way dl dd a {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                margin-left: 10px; }
+              #middle #middle_con .middle_con_form .login_pc .way dl dd a:first-child {
+                background: url(../img/loginRegister/enterprise.png) no-repeat 0 0; }
+                #middle #middle_con .middle_con_form .login_pc .way dl dd a:first-child:hover {
+                  background: url(../img/loginRegister/enterprise.png) no-repeat -20px 0; }
+              #middle #middle_con .middle_con_form .login_pc .way dl dd a:last-child {
+                background: url(../img/loginRegister/enterprise.png) no-repeat 0 -20px; }
+                #middle #middle_con .middle_con_form .login_pc .way dl dd a:last-child:hover {
+                  background: url(../img/loginRegister/enterprise.png) no-repeat -20px -20px; }
+      #middle #middle_con .middle_con_form .login_code {
+        width: 305px;
+        height: 243px; }
+        #middle #middle_con .middle_con_form .login_code h2 {
+          margin-top: 15px;
+          font-size: 14px;
+          font-weight: bold;
+          color: #333;
+          text-align: center; }
+        #middle #middle_con .middle_con_form .login_code div {
+          height: 206px;
+          margin-top: 16px; }
+          #middle #middle_con .middle_con_form .login_code div img {
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            width: 160px;
+            height: 160px;
+            border: 1px solid #f6f6f6; }
+          #middle #middle_con .middle_con_form .login_code div p {
+            height: 18px;
+            margin-top: 26px;
+            font-size: 12px;
+            text-align: center; }
+            #middle #middle_con .middle_con_form .login_code div p a {
+              cursor: pointer; }
+
+/*# sourceMappingURL=login.css.map */

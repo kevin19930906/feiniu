@@ -1,0 +1,58 @@
+{
+	"areaL":[{
+			"title":"A",
+			"county":["安徽"]
+		},
+		{
+			"title":"B",
+			"county":["北京"]
+		},
+		{
+			"title":"C",
+			"county":["重庆"]
+		},
+		{
+			"title":"F",
+			"county":["福建"]
+		},
+		{
+			"title":"G",
+			"county":["广东","广西","贵州","甘肃"]
+		},
+		{
+			"title":"H",
+			"county":["河北","黑龙江","海南","湖北","湖南","河南"]
+		},
+		{
+			"title":"L",
+			"county":["辽宁"]
+		}],
+
+	"areaR":[{
+			"title":"N",
+			"county":["内蒙古西","内蒙古东","宁夏"]
+	},
+		{
+			"title":"Q",
+			"county":["青海"]
+		},
+		{
+			"title":"S",
+			"county":["上海","山东","山西","四川"]
+		},{
+			"title":"T",
+			"county":["天津"]
+		},{
+			"title":"X",
+			"county":["西藏","新疆"]
+		},{
+			"title":"Y",
+			"county":["云南"]
+		},{
+			"title":"Z",
+			"county":["浙江"]
+		}
+		
+	
+	]	
+}

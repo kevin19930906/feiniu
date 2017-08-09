@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>飞牛一下,你就知道啦———登陆</title>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/login.css" />
+		<script src="js/jquery-1.11.0.js"></script>
+		<script src="js/login.js"></script>
+		<script>
+			$(function(){
+				$("footer").load("common.html #footer1");
+			})
+		</script>
+	</head>
+	<body>
+		<div id="top2">
+			<div id="top2_con">
+			<a href="index.html" title="回飞牛网首页"></a>
+			</div>
+		</div>
+		<div id="middle">
+			<div id="middle_con">
+				<div class="middle_con_banner">
+					<a href="javascript:;">
+						<img src="img/loginRegister/CsmRsll_3VSAZ1PxAAZULDZp6SA838.png" alt="" />
+					</a>
+				</div>
+				<div class="middle_con_form">
+					<div class="switch">
+						<em></em>
+						<span></span>
+						<p>扫码登陆更安全</p>
+					</div>
+					<div class="code">
+						<em></em>
+						<a class="qrcode" href="javascript:;"></a>
+					</div>
+					<div class="login_pc" >
+						<h2>登陆飞牛网</h2>
+						<form class="table">
+							<div class="meg_wrap">
+								<p class="meg_error" style="display:none">
+									<span></span>
+									账号和密码不匹配哦~
+								</p>
+								<p class="meg_tip" style="display:none">
+									<span></span>
+									公共场所不建议自动登录，以防帐号丢失
+	
+								</p>
+							</div>
+							<p>
+								<label for=""></label>
+								<input type="text" placeholder="邮箱/用户名/手机号" class="username" autocomplete="off"/>
+							</p>
+							<p>
+								<label for=""></label>
+								<input type="text" placeholder="密码" class="password" autocomplete="off"/>
+							</p>
+							<div class="auto_login">
+								<label for="">
+									<input type="checkbox"/>自动登陆
+								</label>
+								<span>
+									<a href="javascript:;">忘记密码?</a>
+								</span>
+							</div>
+							<a href="#:;" id="btn">登陆</a>
+							<div class="way">
+								<p>
+									<a href="javascript:;"><span></span><em>手机验证码登陆</em></a>
+									<a href="register.html"><span></span><em>免费注册</em></a>
+								</p>
+								<dl>
+									<dt>合作网站登陆:</dt>
+									<dd>
+										<a href="javascript:;"></a>
+										<a href="javascript:;"></a>
+									</dd>
+								</dl>
+							</div>
+						</form>
+					</div>
+					<div class="login_code" style="display:none">
+						<h2>用飞牛网APP，扫一扫安全登录</h2>
+						<div>
+							<img src="https://passport.feiniu.com/gateway/qrCodeImg?v=1501645712944" alt="扫二维码登陆飞牛" />
+							<p>打开新版 &nbsp;<a href="javascript:;">飞牛APP</a>&nbsp;扫描二维码</p>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer></footer>
+	</body>
+</html>

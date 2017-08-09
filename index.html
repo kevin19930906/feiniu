@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>flyingCow,一飞冲天,牛力无边</title>
+		
+		<link rel="stylesheet" href="css/flyingCow.css" />
+		<link rel="stylesheet" href="css/common.css" />
+		<script src="js/jquery-1.11.0.js"></script>
+		<script src="js/jquery.cookie.js"></script>
+		<script src="js/common.js"></script>
+		<script src="js/flyingCow.js"></script>
+		<script src="js/template.js"></script>
+		<style>
+			.footer_con{
+				border-top:1px solid #ddd;
+			}
+		</style>
+			
+	</head>
+	
+
+	<body>
+		<header></header>
+		<!--轮播图-->
+		<div id="carousel">
+			<div class="carousel_con">
+				<ul class="carousel_pic">
+					<li style="display:block">
+						<a href=""><img src="img/index/CsmRsVl_1AeAMIIJAAJcS2UvNPY096.jpg" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsll2m2iAZVlKAAEqFX1YFy8709.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsVl1mXmAUYAwAAEdUv9sS9w139.jpg" alt="" /></a>
+					</li>
+
+					<li>
+						<a href=""><img src="img/index/CsmRsVl_47aAPUNwAAMzdDcu7xw943.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsVl1YO2AXs7rAAGRRZnkK2A613.jpg" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsVl_08GABQZyAARy7gZOukU259.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsll-8TmAUCzfAAFLUZWIIwc687.jpg" /></a>
+					</li>
+					<li>
+						<a href=""><img src="img/index/CsmRsVl1kBWAAmxIAAJFrmchcOM118.jpg" alt="" /></a>
+					</li>
+					
+				</ul>
+				<ul class="circle">
+					<div>
+						<li class="circle_active"></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</div>
+				</ul>
+				<div class="btnL btn"><</div>
+				<div class="btnR btn">></div>	
+				<div id="sevens">
+			<div class="painting">
+				<dl>
+					<dt></dt>
+					<dd>在线客服</dd>
+				</dl>
+				<dl>
+					<dt></dt>
+					<dd>曾经购买</dd>
+				</dl>
+				<dl>
+					<dt></dt>
+					<dd>我的收藏</dd>
+				</dl>
+			</div>
+			<!--公告-->
+			<div class="notice">
+				<span>【公告】</span>
+				<i>翼支付满39元随机立减</i>
+			</div>
+			<!--充钱-->
+			<div class="reacharge">
+				<p>话费充值</p>
+				<p>流量充值</p>
+				<input type="text"  class="inp1" placeholder="请输入手机号码"/>
+				<input type="text"  placeholder="50"/>	 
+				<span>售价</span>
+				<i>￥250-350元</i>
+				<a href="">立即充值</a>
+			</div>
+			<div class="bgimg">
+				<img src="" alt="" />
+			</div>
+		</div>
+			
+			</div>
+		
+		</div>
+		
+		<!--飞牛-->
+		<div class="gkp_flycow">
+			<div class="gkp_con">
+				<h1>
+					<a href="index.html">
+					<img src="img/index/logo.png" alt="" />
+					</a>
+				</h1>
+				<form class="search">
+					<i></i>
+					<input class="inps" type="text" />					
+					<button>搜索</button>		
+				</form>
+				
+			</div>
+		</div>
+		<!--特色频道-->
+		<div class="tt">
+			<h3>特色频道</h3>
+			<div class="tt_wrap">
+				<a href="#:;" title="飞牛团"><img src="img/index/CsmRsVlZ8hyANKJaAADGCK42b2U290.jpg" /></a>
+				<a href="#:;" title="品牌特卖"><img src="img/index/CsmRsll-zMiAWGa_AAB-IHp23Ik966.jpg" /></a>
+				<a href="#:;" title="自创品牌"><img src="img/index/CsmRsllaGxSAdkPmAACxwb5OlH0797.jpg" /></a>
+			</div>
+			<a class="discount" href="#:;"><img src="img/index/CsmRsVl_10yATMRVAAEb_4Ldxto171.jpg" /></a>
+		</div>
+		<!--楼梯-->
+		<div class="floor" style="display:none">
+			<ul class="oh">
+				<li>1F
+					<span class="title">食品饮料</span>
+				</li>
+				<li>
+					2F
+					<span class="title">个护美妆</span>
+				</li>
+				<li>
+					3F
+					<span class="title">家电数码</span>
+				</li>
+				<li>
+					4F
+					<span class="title">服饰内衣</span>
+				</li>
+				<li>
+					5F
+					<span class="title">鞋靴箱包</span>
+				</li>
+				<li>
+					6F
+					<span class="title">户外运动</span>
+				</li>
+				<li>
+					7F
+					<span class="title">家清日百</span>
+				</li>
+				<li>
+					8F
+					<span class="title">家纺家装</span>
+				</li>
+				<li>
+					9F
+					<span class="title">母婴馆</span>
+				</li>
+				<li>
+					10F
+					<span class="title">图书卡券</span>
+				</li>
+				<li>
+					11F
+					<span class="title">进口好货</span>
+				</li>
+			</ul>
+		</div>
+		<!--1楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>1F</i>食品饮料</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>休闲零食</span></li>
+					<li><span>酒水饮料</span></li>
+					<li><span>粮油调味</span></li>
+					<li><span>冲调乳品</span></li>
+					<li><span>方便速食</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+					<!--<li><img src="../img/index/CsmRsVl_0BCAcCT1AADYKqqFJd4555.jpg" alt="" /></li>
+					<li><img src="../img/index/CsmRsVl2nw2AN9c-AACMaBwQalA731.jpg" alt="" /></li>
+					<li><img src="../img/index/CsmRsll2nzqAN-UEAACmLnYvEXw155.jpg" alt="" /></li>
+					<li><img src="../img/index/CsmRsVl2vC-AS5UNAABiAhUvi90686.gif" alt="" /></li>
+					<li><img src="../img/index/CsmRsllxokOAX7FBAABbqNfQIFg581.jpg" alt="" /></li>
+					<li><img src="../img/index/CsmRsVl2utuAdkagAAA3iv3dGac682.gif" alt="" /></li>
+					<li><img src="../img/index/CsmRsll2uzGAIJeyAAA0-lobQRU364.gif" alt="" /></li>
+					<li><img src="../img/index/CsmRsll2u0KAca52AAA3y1kMFgI851.gif" alt="" /></li>-->
+
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+					<!--<li>
+						<a href="#:;"><img src="../img/index/_252186500_160x160.jpg" alt="" /></a>
+						<a href="#:;">士力架花生夹心巧克力全家桶 460g/桶</a>
+						<a href="#:;"><span>￥</span>32.8</a>
+					</li>
+					<li><img src="../img/index/_631355537_160x160.jpg" alt="" /></li>-->
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+					<!--<li>
+						<a href="#:;"><img src="http://img03.fn-mart.com/C/web/layout/kk/20150925/20150925161822_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img04.fn-mart.com/C/web/layout/kk/20160601/201606011745131464774313_kk-0.png" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img02.fn-mart.com/C/web/layout/kk/20151014/20151014115516_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img03.fn-mart.com/C/web/layout/kk/20150925/20150925161845_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img04.fn-mart.com/C/web/layout/kk/20150925/20150925161849_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img02.fn-mart.com/C/web/layout/kk/20150925/20150925185220_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img02.fn-mart.com/C/web/layout/kk/20150925/20150925185220_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img02.fn-mart.com/C/web/layout/kk/20161115/201611150917191479172639_kk-0.jpg" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img04.fn-mart.com/C/web/layout/kk/20160601/201606011739271464773967_kk-0.png" alt="" /></a>
+					</li>
+					<li>
+						<a href="#:;"><img src="http://img03.fn-mart.com/C/web/layout/kk/20160619/201606191225191466310319_kk-0.jpg" alt="" /></a>
+					</li>-->
+				</ul>
+			</div>
+		
+		</div>
+		<!--品牌-->
+		
+			
+		<!--2楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>2F</i>个护美妆</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--3楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>3F</i>家电数码</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--4楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>4F</i>服饰内衣</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--5楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>5F</i>鞋靴箱包</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--6楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>6F</i>户外运动</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--7楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>7F</i>家清日百</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--8楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>8F</i>家装家纺</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--9楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>9F</i>母婴馆</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--10楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>10F</i>图书卡券</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+		<!--11楼-->
+		<div class="snack fl clearfix">
+			<div class="snack_nav">
+				<h3><i>11F</i>进口好货</h3>
+				<ul>
+					<li class="nav_choose nav_first"><span>精选推荐</span></li>
+					<li><span>清爽一夏</span></li>
+					<li><span>洗护发洗浴</span></li>
+					<li><span>面部护肤</span></li>
+					<li><span>女性护理</span></li>
+					<li><span>口腔护理</span></li>
+				</ul>
+			</div>
+			<div class="snack_con">
+				<a class="snack_activity" href="#:;">
+					<img src="img/index/CsmRsll2mlmALo6GAAB5m6G2FyE133.jpg" />
+				</a>
+				<ul class="snack_left">
+					<li>
+						<a href="#:;">休闲食品满99减30 ></a>
+						<a href="#:;">忆江南满99减30 ></a>
+					</li>
+					<li>
+						<a style="color:#d7063b" href="#:;">薯　片</a>
+						<a style="color: #d7063b" href="#:;">巧克力</a>
+						<a href="#:;">蜜　饯</a>
+						<a href="#:;">葡萄酒</a>
+						<a href="#:;">酸　奶</a>
+						<a href="#:;">口香糖</a>
+						<a href="#:;">白　酒</a>
+						<a href="#:;">咖　啡</a>
+						<a href="#:;">肉零食</a>
+						<a style="color: #d7063b" href="#:;">饮用水</a>
+						<a href="#:;">食用油</a>
+						<a style="color: #d7063b" href="#:;">饼　干</a>
+						<a href="#:;">茶饮料</a>
+						<a href="#:;">大　米</a>
+						<a href="#:;">坚　果</a>
+					</li>
+				</ul>
+				<!--区域一-->
+				<ul class="snack_right">
+				</ul>
+				<!--区域二-->
+				<ul class="snack_right2">
+				</ul>
+			</div>
+			<div class="brand">
+				<ul>
+				</ul>
+			</div>
+		</div>
+	
+	
+		<div class="foot"></div>
+		<div class="foot1"></div>
+	</body>
+
+</html>

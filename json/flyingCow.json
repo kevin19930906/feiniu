@@ -1,0 +1,567 @@
+[{
+	"f0":[
+			"http://img04.fn-mart.com/C/web/layout/kk/20150925/20150925161822_kk-0.jpg",
+			"http://img02.fn-mart.com/C/web/layout/kk/20160601/201606011745131464774313_kk-0.png",
+			"http://img03.fn-mart.com/C/web/layout/kk/20151014/20151014115516_kk-0.jpg",
+			"http://img04.fn-mart.com/C/web/layout/kk/20150925/20150925161845_kk-0.jpg",
+			"http://img02.fn-mart.com/C/web/layout/kk/20150925/20150925161849_kk-0.jpg",
+			"http://img03.fn-mart.com/C/web/layout/kk/20150925/20150925185220_kk-0.jpg",
+			"http://img04.fn-mart.com/C/web/layout/kk/20150925/20150925162144_kk-0.jpg",
+			"http://img02.fn-mart.com/C/web/layout/kk/20160601/201606011739271464773967_kk-0.png",
+			"http://img03.fn-mart.com/C/web/layout/kk/20161115/201611150917191479172639_kk-0.jpg",
+			"http://img04.fn-mart.com/C/web/layout/kk/20160619/201606191225191466310319_kk-0.jpg"
+	],
+	"f1":[
+			"img/index/CsmRsVl_0BCAcCT1AADYKqqFJd4555.jpg",
+			"img/index/CsmRsVl2nw2AN9c-AACMaBwQalA731.jpg",
+			"img/index/CsmRsll2nzqAN-UEAACmLnYvEXw155.jpg",
+			"img/index/CsmRsVl2vC-AS5UNAABiAhUvi90686.gif",
+			"img/index/CsmRsllxokOAX7FBAABbqNfQIFg581.jpg",
+			"img/index/CsmRsVl2utuAdkagAAA3iv3dGac682.gif",
+			"img/index/CsmRsll2uzGAIJeyAAA0-lobQRU364.gif",
+			"img/index/CsmRsll2u0KAca52AAA3y1kMFgI851.gif"
+			],
+	"f2":[{
+				"id":"100001",
+				"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+				"price":"32.8",
+				"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+			},{
+				"id":"100002",
+				"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+				"price":"338",
+				"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+			},{
+				"id":"100003",
+				"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+				"price":"38",
+				"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+			},{
+				"id":"100004",
+				"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+				"price":"68",
+				"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+			},{
+				"id":"100005",
+				"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+				"price":"68",
+				"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+			},{
+				"id":"100006",
+				"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+				"price":"88",
+				"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+			},{
+				"id":"100007",
+				"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+				"price":"88",
+				"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+			},{
+				"id":"100008",
+				"intro":"达利园 法式软面包（香橙味） 360g/袋",
+				"price":"38",
+				"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+			},{
+				"id":"100009",
+				"intro":"姚太太酱鸭舌40g/包",
+				"price":"28",
+				"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+			},{
+				"id":"100010",
+				"intro":"上好佳 洋葱圈 80g/袋",
+				"price":"38",
+				"img":"http://img04.fn-mart.com/C/item/2014/1030/201410C300000127/_674528171_160x160.jpg"
+			}],
+	"f3":[{
+			"id":"300001",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300002",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300003",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300004",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300005",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300006",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},{
+			"id":"300007",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300008",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300009",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300010",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		}],
+		"f4":[{
+				"id":"100001",
+				"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+				"price":"32.8",
+				"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+			},{
+				"id":"100002",
+				"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+				"price":"338",
+				"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+			},{
+				"id":"100003",
+				"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+				"price":"38",
+				"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+			},{
+				"id":"100004",
+				"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+				"price":"68",
+				"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+			},{
+				"id":"100005",
+				"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+				"price":"68",
+				"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+			},{
+				"id":"100006",
+				"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+				"price":"88",
+				"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+			},{
+				"id":"100007",
+				"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+				"price":"88",
+				"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+			},{
+				"id":"100008",
+				"intro":"达利园 法式软面包（香橙味） 360g/袋",
+				"price":"38",
+				"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+			},{
+				"id":"100009",
+				"intro":"姚太太酱鸭舌40g/包",
+				"price":"28",
+				"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+			},{
+				"id":"100010",
+				"intro":"上好佳 洋葱圈 80g/袋",
+				"price":"38",
+				"img":"http://img04.fn-mart.com/C/item/2014/1030/201410C300000127/_674528171_160x160.jpg"
+			}],
+		"f5":[{
+			"id":"100001",
+			"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+			"price":"32.8",
+			"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+		},{
+			"id":"100002",
+			"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+			"price":"338",
+			"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+		},{
+			"id":"100003",
+			"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+			"price":"38",
+			"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+		},{
+			"id":"100004",
+			"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+			"price":"68",
+			"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+		},{
+			"id":"100005",
+			"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+		},{
+			"id":"100006",
+			"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+			"price":"88",
+			"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+		},{
+			"id":"100007",
+			"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+			"price":"88",
+			"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+		},{
+			"id":"100008",
+			"intro":"达利园 法式软面包（香橙味） 360g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+		},{
+			"id":"100009",
+			"intro":"姚太太酱鸭舌40g/包",
+			"price":"28",
+			"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+		},{
+			"id":"100010",
+			"intro":"上好佳 洋葱圈 80g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		}],
+		"f6":[{
+			"id":"100001",
+			"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+			"price":"32.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100002",
+			"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+			"price":"338",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100003",
+			"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100004",
+			"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100005",
+			"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100006",
+			"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+			"price":"88",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100007",
+			"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+			"price":"88",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100008",
+			"intro":"达利园 法式软面包（香橙味） 360g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100009",
+			"intro":"姚太太酱鸭舌40g/包",
+			"price":"28",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100010",
+			"intro":"上好佳 洋葱圈 80g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		}]
+		
+		
+		
+		
+},
+{
+	"f1":[
+			"img/index/CsmRsVl_0BCAcCT1AADYKqqFJd4555.jpg",
+			"img/index/CsmRsVl2nw2AN9c-AACMaBwQalA731.jpg",
+			"img/index/CsmRsll2nzqAN-UEAACmLnYvEXw155.jpg",
+			"img/index/CsmRsVl2vC-AS5UNAABiAhUvi90686.gif",
+			"img/index/CsmRsllxokOAX7FBAABbqNfQIFg581.jpg",
+			"img/index/CsmRsVl2utuAdkagAAA3iv3dGac682.gif",
+			"img/index/CsmRsll2uzGAIJeyAAA0-lobQRU364.gif",
+			"img/index/CsmRsll2u0KAca52AAA3y1kMFgI851.gif"
+			],
+	"f2":[{
+				"id":"100001",
+				"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+				"price":"32.8",
+				"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+			},{
+				"id":"100002",
+				"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+				"price":"338",
+				"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+			},{
+				"id":"100003",
+				"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+				"price":"38",
+				"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+			},{
+				"id":"100004",
+				"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+				"price":"68",
+				"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+			},{
+				"id":"100005",
+				"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+				"price":"68",
+				"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+			},{
+				"id":"100006",
+				"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+				"price":"88",
+				"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+			},{
+				"id":"100007",
+				"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+				"price":"88",
+				"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+			},{
+				"id":"100008",
+				"intro":"达利园 法式软面包（香橙味） 360g/袋",
+				"price":"38",
+				"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+			},{
+				"id":"100009",
+				"intro":"姚太太酱鸭舌40g/包",
+				"price":"28",
+				"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+			},{
+				"id":"100010",
+				"intro":"上好佳 洋葱圈 80g/袋",
+				"price":"38",
+				"img":"http://img04.fn-mart.com/C/item/2014/1030/201410C300000127/_674528171_160x160.jpg"
+			}],
+	"f3":[{
+			"id":"300001",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300002",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300003",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300004",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300005",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300006",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},{
+			"id":"300007",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300008",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300009",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		},
+		{
+			"id":"300010",
+			"intro":"汇源 100%苹果汁 1L/盒",
+			"price":"14.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/0320/201403C200000283/_471673559_160x160.jpg"
+		}],
+		"f4":[{
+				"id":"100001",
+				"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+				"price":"32.8",
+				"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+			},{
+				"id":"100002",
+				"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+				"price":"338",
+				"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+			},{
+				"id":"100003",
+				"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+				"price":"38",
+				"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+			},{
+				"id":"100004",
+				"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+				"price":"68",
+				"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+			},{
+				"id":"100005",
+				"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+				"price":"68",
+				"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+			},{
+				"id":"100006",
+				"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+				"price":"88",
+				"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+			},{
+				"id":"100007",
+				"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+				"price":"88",
+				"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+			},{
+				"id":"100008",
+				"intro":"达利园 法式软面包（香橙味） 360g/袋",
+				"price":"38",
+				"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+			},{
+				"id":"100009",
+				"intro":"姚太太酱鸭舌40g/包",
+				"price":"28",
+				"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+			},{
+				"id":"100010",
+				"intro":"上好佳 洋葱圈 80g/袋",
+				"price":"38",
+				"img":"http://img04.fn-mart.com/C/item/2014/1030/201410C300000127/_674528171_160x160.jpg"
+			}],
+		"f5":[{
+			"id":"100001",
+			"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+			"price":"32.8",
+			"img":"http://img04.fn-mart.com/C/item/2015/0213/201502C130003101/_252186500_160x160.jpg"
+		},{
+			"id":"100002",
+			"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+			"price":"338",
+			"img":"http://img03.fn-mart.com/C/item/2013/1116/201311C160000050/_631355537_160x160.jpg"
+		},{
+			"id":"100003",
+			"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+			"price":"38",
+			"img":"http://img02.fn-mart.com/C/item/2014/0326/201403C260000274/_314963574_160x160.JPG"
+		},{
+			"id":"100004",
+			"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+			"price":"68",
+			"img":"http://img04.fn-mart.com/pic/03e4133bd5d429d9fef6/kTH222sTvTtMhdUlZ2/sieaoyUyTaSRkG/CsmRrlfD_O-AOkFLAAOO5aLigMI204_160x160.jpg"
+		},{
+			"id":"100005",
+			"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2013/1106/201311C060000863/_959967654_160x160.JPG"
+		},{
+			"id":"100006",
+			"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+			"price":"88",
+			"img":"http://img02.fn-mart.com/pic/c7eb133c13bb2ccee870/Kz62TTsnDTflhgugpT/1xoamRJyFGOY3i/CsmRrFffv3aADIPhAAPesjR72Vw789_160x160.jpg"
+		},{
+			"id":"100007",
+			"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+			"price":"88",
+			"img":"http://img04.fn-mart.com/C/item/2015/0130/201501C300000189/_485785712_160x160.jpg"
+		},{
+			"id":"100008",
+			"intro":"达利园 法式软面包（香橙味） 360g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2013/1108/201311C080001089/_747808265_160x160.jpg"
+		},{
+			"id":"100009",
+			"intro":"姚太太酱鸭舌40g/包",
+			"price":"28",
+			"img":"http://img02.fn-mart.com/C/item/2015/0416/201504C160009234/_258835720_160x160.jpg"
+		},{
+			"id":"100010",
+			"intro":"上好佳 洋葱圈 80g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		}],
+		"f6":[{
+			"id":"100001",
+			"intro":"士力架花生夹心巧克力全家桶 460g/桶",
+			"price":"32.8",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100002",
+			"intro":"炫迈 无糖口香糖 水蜜西瓜味 28片装 50.4g/盒",
+			"price":"338",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100003",
+			"intro":"好丽友 蘑古力装饰饼干 48g*3/组",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100004",
+			"intro":"乐事 无限组合装薯片 104g×3罐/组 休闲零食",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100005",
+			"intro":"好丽友 呀!土豆薯条(里脊牛排味) 70g/袋",
+			"price":"68",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100006",
+			"intro":"益达 木糖醇无糖口香糖(清爽西瓜味) 56g/瓶",
+			"price":"88",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100007",
+			"intro":"徐福记糙米卷荞麦蛋黄135克/袋",
+			"price":"88",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100008",
+			"intro":"达利园 法式软面包（香橙味） 360g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100009",
+			"intro":"姚太太酱鸭舌40g/包",
+			"price":"28",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		},{
+			"id":"100010",
+			"intro":"上好佳 洋葱圈 80g/袋",
+			"price":"38",
+			"img":"http://img03.fn-mart.com/C/item/2014/1126/201411C260000127/_992874476_160x160.jpg"
+		}]	
+	}
+]
